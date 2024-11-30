@@ -1,12 +1,18 @@
 title: William Lumme
 description: >-
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Data Engineer with over 4 years of experience.
+  I tell computers how to turn nonsense into knowledge.
 baseurl: ""
 url: ""
-twitter_username: jekyllrb
-github_username: Willlumm
+
 remote_theme: willlumm/swiss
+theme_color: green
+
+socials:
+  - link: github
+    username: willlumm
+  - link: linkedin
+    username: william-lumme
+
 plugins:
   - jekyll-feed
